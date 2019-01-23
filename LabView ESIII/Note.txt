@@ -1,0 +1,3 @@
+slowcontrol\exodata
+
+first column is datetime PK, what type is it?

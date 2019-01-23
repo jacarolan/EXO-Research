@@ -1,0 +1,21 @@
+
+http://www.ni.com/white-paper/3929/en/
+
+Sent Array
+
+New Data?
+
+New String
+
+some global variables are missing, like HFE Array
+
+DB Tools execute query (C:\Program Files (x86)\National Instruments\LabVIEW 2012\vi.lib\addons\database\Auxilliary.llb)
+
+Rec Destroy - Connection (needed by EXO Data Transfer)
+
+Two large file folders interfere.
+
+PID (DBL).vi is missing.
+PID.vi is missing
+
+Get histogram binning (1D).vi (check who needs it)
